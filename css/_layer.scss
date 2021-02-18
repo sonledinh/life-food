@@ -1,0 +1,53 @@
+// footer
+footer {
+	background: #E5E5E5;
+	padding: 60px 0;
+}
+.title-ft {
+	color: #1D293F;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+.item-footer {
+	.desc {
+		color: #7C8087;
+		font-size: 16px;
+		margin-bottom: 20px;
+	}
+	ul {
+		list-style: none;
+		font-size: 16px;
+		li {
+			padding: 3px 0;
+		}
+	}
+	a {
+		color: #7C8087;
+	}
+}
+.box-subscribe {
+	position: relative;
+    background: #fff;
+    height: 60px;
+    padding: 10px;
+    input {
+    	border: 0;
+	    height: 100%;
+	    width: 100%;
+	    font-size: 16px;
+    }
+    button {
+    	height: 40px;
+	    position: absolute;
+	    top: 10px;
+	    right: 10px;
+	    font-size: 16px;
+	    color: #fff;
+	    background: $yellow;
+	    border: 0;
+	    padding: 0 15px;
+	    border-radius: 6px;
+	    cursor: pointer;
+    }
+}
+// end footer
