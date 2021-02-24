@@ -22,7 +22,7 @@ body {
         text-decoration: none !important;       
         transition: .3s all;  
         margin-bottom: 0;  
-        outline: none !important;  
+        outline: none !important;   
     }    
     a { 
         transition: .3s all !important; 
@@ -621,3 +621,57 @@ body {
         }
     }
 }
+
+.slide-qc {
+    .slick-arrow {
+        left: 10px;
+        z-index: 2;
+        &.next {
+            right: 10px;
+            left: unset;
+        }
+    }
+}
+
+.modal-contact {
+    .modal-dialog {
+        max-width: 1000px;
+    }
+    .modal-body {
+        padding: 40px 40px 10px 40px;
+    }
+    .form-ct {
+        padding: 0 15px;
+    }
+    .title-popup {
+        h3 {
+            font-weight: bold;
+            font-size: 20px;
+            margin-bottom: 30px;
+        }
+    }
+}
+
+#bread {
+    background: #ebebeb;
+    padding: 12px 0;
+    font-size: 15px;
+    li {
+        position: relative;
+        padding-right: 15px;
+        &:after {
+            content: "/";
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+        &:last-child {
+            padding-right: 0;
+            &:after {
+                display: none;
+            }
+        }
+    }
+}
+
+@import "_productdiff.scss";

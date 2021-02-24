@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'header-2.php';?>
 <main>
 	<section class="bread-contact" style="background: url('images/new-detail.png');">
 		<div class="content">

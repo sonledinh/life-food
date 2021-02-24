@@ -1,5 +1,13 @@
-<?php include 'header.php';?>
+<?php include 'header-2.php';?>
 <main>
+	<section id="bread">
+		<div class="container">
+			<ul class="list-inline">
+				<li class="list-inline-item"><a href="index.php">Trang chủ</a></li>
+				<li class="list-inline-item"><a href="javascript:void(0)">Giới thiệu</a></li>
+			</ul>
+		</div>
+	</section>
 	<section class="box-about">
 		 <div class="avarta"><img src="images/box-about.png" class="img-fluid w-100" alt=""></div>
 		 <div class="caption-about text-center">
@@ -64,25 +72,47 @@
 		</div>
 	</section>
 	<section class="qc" style="clear: both; padding-top: 60px;">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-6"><a href=""><img src="images/qc-1.png" class="img-fluid w-100" alt=""></a></div>
-				<div class="col-md-6"><a href=""><img src="images/qc-2.png" class="img-fluid w-100" alt=""></a></div>
-			</div>
-		</div>
+		<div class="slide-qc">
+			<div class="item"><a href=""><img src="images/qc-1.png" class="img-fluid w-100" alt=""></a></div>
+			<div class="item"><a href=""><img src="images/qc-2.png" class="img-fluid w-100" alt=""></a></div>
+			<div class="item"><a href=""><img src="images/qc-1.png" class="img-fluid w-100" alt=""></a></div>
+			<div class="item"><a href=""><img src="images/qc-2.png" class="img-fluid w-100" alt=""></a></div>
+		</div> 
 	</section>
 	<section class="box-new-home">
-		<div class="container"> 
+		<div class="container">
 			<div class="slide-new-home">
 				<div class="item-slide">
 					<div class="item-new">
-						<div class="avarta"><a href=""><img src="images/new-1.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="avarta"><a href="new-detail.php"><img src="images/new-1.png" class="img-fluid w-100" alt=""></a></div>
 						<div class="info">
 							<ul class="d-flex info-top">
 								<li>PRODUCTIVITY</li>
 								<li>3 days ago</li>
 							</ul>
-							<h3><a href="">7 Skills of Highly Effective Programmers</a></h3>
+							<h3><a href="new-detail.php">7 Skills of Highly Effective Programmers</a></h3>
+							<div class="desc">
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget ultricies sed nunc, risus consectetur. Lacus auctor nulla ac et bibendum.
+							</div>
+							<div class="info-bot">
+								<div class="user">
+									<img src="images/person.png" class="img-fluid" alt="">
+									<span>Glen Williams</span>
+								</div>
+								<div class="readmore"><a href="">Read more 🡢</a></div>
+							</div> 
+						</div>
+					</div>
+				</div>
+				<div class="item-slide">
+					<div class="item-new">
+						<div class="avarta"><a href="new-detail.php"><img src="images/new-2.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="info">
+							<ul class="d-flex info-top">
+								<li>PRODUCTIVITY</li>
+								<li>3 days ago</li>
+							</ul>
+							<h3><a href="new-detail.php">7 Skills of Highly Effective Programmers</a></h3>
 							<div class="desc">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget ultricies sed nunc, risus consectetur. Lacus auctor nulla ac et bibendum.
 							</div>
@@ -98,13 +128,13 @@
 				</div>
 				<div class="item-slide">
 					<div class="item-new">
-						<div class="avarta"><a href=""><img src="images/new-2.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="avarta"><a href="new-detail.php"><img src="images/new-1.png" class="img-fluid w-100" alt=""></a></div>
 						<div class="info">
 							<ul class="d-flex info-top">
 								<li>PRODUCTIVITY</li>
 								<li>3 days ago</li>
 							</ul>
-							<h3><a href="">7 Skills of Highly Effective Programmers</a></h3>
+							<h3><a href="new-detail.php">7 Skills of Highly Effective Programmers</a></h3>
 							<div class="desc">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget ultricies sed nunc, risus consectetur. Lacus auctor nulla ac et bibendum.
 							</div>
@@ -120,13 +150,13 @@
 				</div>
 				<div class="item-slide">
 					<div class="item-new">
-						<div class="avarta"><a href=""><img src="images/new-1.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="avarta"><a href="new-detail.php"><img src="images/new-2.png" class="img-fluid w-100" alt=""></a></div>
 						<div class="info">
 							<ul class="d-flex info-top">
 								<li>PRODUCTIVITY</li>
 								<li>3 days ago</li>
 							</ul>
-							<h3><a href="">7 Skills of Highly Effective Programmers</a></h3>
+							<h3><a href="new-detail.php">7 Skills of Highly Effective Programmers</a></h3>
 							<div class="desc">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget ultricies sed nunc, risus consectetur. Lacus auctor nulla ac et bibendum.
 							</div>
@@ -142,13 +172,13 @@
 				</div>
 				<div class="item-slide">
 					<div class="item-new">
-						<div class="avarta"><a href=""><img src="images/new-2.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="avarta"><a href="new-detail.php"><img src="images/new-1.png" class="img-fluid w-100" alt=""></a></div>
 						<div class="info">
 							<ul class="d-flex info-top">
 								<li>PRODUCTIVITY</li>
 								<li>3 days ago</li>
 							</ul>
-							<h3><a href="">7 Skills of Highly Effective Programmers</a></h3>
+							<h3><a href="new-detail.php">7 Skills of Highly Effective Programmers</a></h3>
 							<div class="desc">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget ultricies sed nunc, risus consectetur. Lacus auctor nulla ac et bibendum.
 							</div>
@@ -164,35 +194,13 @@
 				</div>
 				<div class="item-slide">
 					<div class="item-new">
-						<div class="avarta"><a href=""><img src="images/new-1.png" class="img-fluid w-100" alt=""></a></div>
+						<div class="avarta"><a href="new-detail.php"><img src="images/new-2.png" class="img-fluid w-100" alt=""></a></div>
 						<div class="info">
 							<ul class="d-flex info-top">
 								<li>PRODUCTIVITY</li>
 								<li>3 days ago</li>
 							</ul>
-							<h3><a href="">7 Skills of Highly Effective Programmers</a></h3>
-							<div class="desc">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget ultricies sed nunc, risus consectetur. Lacus auctor nulla ac et bibendum.
-							</div>
-							<div class="info-bot">
-								<div class="user">
-									<img src="images/person.png" class="img-fluid" alt="">
-									<span>Glen Williams</span>
-								</div>
-								<div class="readmore"><a href="">Read more 🡢</a></div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="item-slide">
-					<div class="item-new">
-						<div class="avarta"><a href=""><img src="images/new-2.png" class="img-fluid w-100" alt=""></a></div>
-						<div class="info">
-							<ul class="d-flex info-top">
-								<li>PRODUCTIVITY</li>
-								<li>3 days ago</li>
-							</ul>
-							<h3><a href="">7 Skills of Highly Effective Programmers</a></h3>
+							<h3><a href="new-detail.php">7 Skills of Highly Effective Programmers</a></h3>
 							<div class="desc">
 								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget ultricies sed nunc, risus consectetur. Lacus auctor nulla ac et bibendum.
 							</div>

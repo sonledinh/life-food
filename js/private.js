@@ -1,3 +1,18 @@
+var btn = $('#back-to-top');
+
+$(window).scroll(function() {
+  if ($(window).scrollTop() > 350) {
+    btn.addClass('show');
+  } else {
+    btn.removeClass('show');
+  }
+});
+
+btn.on('click', function(e) {
+  e.preventDefault();
+  $('html, body').animate({scrollTop:0}, '300');
+});
+
 
 $('.slide-prd').slick({
     autoplay: true,
@@ -11,7 +26,7 @@ $('.slide-prd').slick({
         {
             breakpoint: 767, 
             settings: {
-                slidesToShow: 1,
+                slidesToShow: 2,
             } 
         },
         {
@@ -35,7 +50,7 @@ $('.slide-new-home').slick({
         {
             breakpoint: 767, 
             settings: {
-                slidesToShow: 1,
+                slidesToShow: 2,
             } 
         },
         {
@@ -59,16 +74,26 @@ $('.list-part').slick({
         {
             breakpoint: 767, 
             settings: {
-                slidesToShow: 1,
+                slidesToShow: 3,
             } 
         },
         {
             breakpoint: 480,
             settings: {
-                slidesToShow: 1,
+                slidesToShow: 2,
             }
         }
     ]
+}); 
+
+$('.slide-qc').slick({
+    autoplay: true,
+    arrow: true,
+    dots: false,
+    slidesToShow: 2, 
+    slidesToScroll: 1, 
+    prevArrow: '<button class="prev"><i class="fa fa-angle-left"></i></button>',
+    nextArrow: '<button class="next"><i class="fa fa-angle-right"></i></button>',
 }); 
 
 $('.slider-for').slick({
@@ -147,12 +172,12 @@ var numberSpinner = (function() {
 
 
 
-// jQuery(document).ready(function( $ ) {
-//   $("#menu").mmenu({
-//      "extensions": [
-//         "fx-menu-zoom"
-//      ],
-//      "counters": true
-//   });
-// });
+jQuery(document).ready(function( $ ) {
+  $("#menu").mmenu({
+     "extensions": [
+        "fx-menu-zoom"
+     ],
+     "counters": true
+  });
+});
 

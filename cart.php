@@ -1,7 +1,16 @@
-<?php include 'header.php';?>
+<?php include 'header-2.php';?>
 <main>
+	<section id="bread">
+		<div class="container">
+			<ul class="list-inline">
+				<li class="list-inline-item"><a href="index.php">Trang chủ</a></li>
+				<li class="list-inline-item"><a href="javascript:void(0)">Giỏ hàng</a></li>
+			</ul>
+		</div>
+	</section>
 	<section id="cart">
 		<div class="container">
+			<div class="title-cart text-center">Giỏ hàng</div>
 			<div class="row">
 				<div class="col-md-8">
 					<div class="list-cart">

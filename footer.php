@@ -1,4 +1,5 @@
 <footer>
+	<div id="back-to-top"><a href="javascript:void(0)"><i class="fa fa-arrow-up"></i></a></div>
 	<div class="info-footer">
 		<div class="container">
 			<div class="row">
@@ -43,6 +44,16 @@
 							<input type="text" placeholder="Enter your email">
 							<button type="submit">Subscribe</button>
 						</div>
+					</div>
+				</div>
+				<div class="col-md-12">
+					<div class="social-ft">
+						<ul class="list-inline">
+							<li class="list-inline-item"><a href=""><img src="images/sc-11.png" class="img-fluid" width="25" height="25" alt=""></a></li>
+							<li class="list-inline-item"><a href=""><img src="images/sc-12.png" class="img-fluid" width="25" height="25" alt=""></a></li>
+							<li class="list-inline-item"><a href=""><img src="images/sc-13.png" class="img-fluid" width="25" height="25" alt=""></a></li>
+							<li class="list-inline-item"><a href=""><img src="images/sc-14.png" class="img-fluid" width="25" height="25" alt=""></a></li>
+						</ul>
 					</div>
 				</div>
 			</div>

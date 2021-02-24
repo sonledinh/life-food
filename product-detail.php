@@ -1,18 +1,12 @@
-<?php include 'header.php';?>
+<?php include 'header-2.php';?>
 <main>
-	<section class="breadcrumbs" style="background: url('images/bn-prd.png');">
-		<div class="info-bread">
-			<div class="container">
-				<div class="row align-items-center ">
-					<div class="col-md-6">
-						<div class="avarta"><img src="images/i-bread.png" class="img-fluid" alt=""></div>
-					</div>
-					<div class="col-md-6 text-right">
-						<h4>Ưu đãi cuối năm</h4>
-						<h2>Sản phẩm sơ chế</h2>
-					</div>
-				</div>
-			</div>
+	<section id="bread">
+		<div class="container">
+			<ul class="list-inline">
+				<li class="list-inline-item"><a href="index.php">Trang chủ</a></li>
+				<li class="list-inline-item"><a href="product.php">Sản phẩm</a></li>
+				<li class="list-inline-item"><a href="javascript:void(0)">Chân giò xông khói</a></li>
+			</ul>
 		</div>
 	</section>
 	<section class="product pt-60 pb-60">
@@ -101,7 +95,7 @@
 		                            </div>
 								</li>
 								<li class="list-inline-item">
-									<div class="btn-cart"><a href=""><img src="images/cart.png" class="img-circle" alt=""></a></div>
+									<div class="btn-cart"><a href="javascript:void(0)" data-toggle="modal" data-target="#myModal"><img src="images/cart.png" class="img-circle" alt=""></a></div>
 								</li>
 							</ul>
 							<p><img src="images/fav.png" class="img-fluid" alt=""></p>
@@ -117,6 +111,62 @@
 					</div>
 				</div>
 			</div>
+		</div>
+
+		<div class="modal fade modal-contact" id="myModal">
+		  <div class="modal-dialog">
+		    <div class="modal-content">
+		      <div class="modal-body">
+		      	<button type="button" class="close" data-dismiss="modal">&times;</button>
+		      	<div class="content-popup">
+		      		<div class="content-contact">
+						<div class="form-ct">
+							<div class="title-popup">
+					      		<h3>ĐỂ LẠI THÔNG TIN LIÊN HỆ</h3>
+					      	</div>
+							<div class="row">
+								<div class="col-md-6">
+									<div class="item">
+										<label>Your name</label>
+										<input type="text">
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="item">
+										<label>Your email</label>
+										<input type="text">
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="item">
+										<label>Subject</label>
+										<input type="text">
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="item">
+										<label>Your Message</label>
+										<textarea name="" id="" cols="30" rows="10"></textarea>
+									</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="item text-right">
+										<input type="submit" class="btn-ct" value="Send message">
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+		      	</div>
+		      </div>
+		    </div>
+		  </div>
 		</div>
 	</section>
 	<section class="content-detail">
@@ -188,12 +238,12 @@
 		</div>
 	</section>
 	<section class="qc" style="clear: both; padding-top: 60px;">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-6"><a href=""><img src="images/qc-1.png" class="img-fluid w-100" alt=""></a></div>
-				<div class="col-md-6"><a href=""><img src="images/qc-2.png" class="img-fluid w-100" alt=""></a></div>
-			</div>
-		</div>
+		<div class="slide-qc">
+			<div class="item"><a href=""><img src="images/qc-1.png" class="img-fluid w-100" alt=""></a></div>
+			<div class="item"><a href=""><img src="images/qc-2.png" class="img-fluid w-100" alt=""></a></div>
+			<div class="item"><a href=""><img src="images/qc-1.png" class="img-fluid w-100" alt=""></a></div>
+			<div class="item"><a href=""><img src="images/qc-2.png" class="img-fluid w-100" alt=""></a></div>
+		</div> 
 	</section>
 	<section class="box-new-home">
 		<div class="container">

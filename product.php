@@ -15,6 +15,14 @@
 			</div>
 		</div>
 	</section>
+	<section id="bread">
+		<div class="container">
+			<ul class="list-inline">
+				<li class="list-inline-item"><a href="index.php">Trang chủ</a></li>
+				<li class="list-inline-item"><a href="javascript:void(0)">Sản phẩm</a></li>
+			</ul>
+		</div>
+	</section>
 	<section class="product pt-60 pb-60">
 		<div class="container">
 			<div class="row">
@@ -53,15 +61,15 @@
 					</div>
 					<div class="list-prd">
 						<div class="row">
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -71,24 +79,24 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -98,24 +106,24 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -125,24 +133,24 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -152,24 +160,24 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -179,24 +187,24 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -206,24 +214,24 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -233,24 +241,24 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -260,24 +268,24 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -287,24 +295,24 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -314,24 +322,24 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -341,24 +349,24 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div class="col-md-4">
+							<div class="col-md-4 col-sm-6">
 								<div class="item-prd">
 									<div class="avarta">
-										<a href=""><img src="images/prd-1.png" class="img-fluid" alt=""></a>
+										<a href="product-detail.php"><img src="images/prd-1.png" class="img-fluid" alt=""></a>
 										<div class="icon-info"><img src="images/icon-info.png" class="img-circle" alt=""></div>
 									</div>
 									<div class="info">
 										<h3>
-											<a href="">Pepperoni Pork</a>
+											<a href="product-detail.php">Pepperoni Pork</a>
 											<ul class="list-inline">
 												<li class="list-inline-item"><a href=""><img src="images/icon-1.png" class="img-fluid" alt=""></a></li>
 												<li class="list-inline-item"><a href=""><img src="images/icon-2.png" class="img-fluid" alt=""></a></li>
@@ -368,11 +376,11 @@
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nisl viverra id fames leo fames in convallis mi varius nibh sociis et.
 										</div>
 										<div class="button-price">
-											<div class="price">
+											<!-- <div class="price">
 												<del>307.000đ</del>
 												<span>268.000đ</span>
-											</div>
-											<div class="btn-buy"><a href="">MUA NGAY</a></div>
+											</div> -->
+											<div class="btn-buy"><a href="product-detail.php">TÌM HIỂU THÊM</a></div>
 										</div>
 									</div>
 								</div>
@@ -396,12 +404,12 @@
 		</div>
 	</section>
 	<section class="qc" style="clear: both; padding-top: 60px;">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-6"><a href=""><img src="images/qc-1.png" class="img-fluid w-100" alt=""></a></div>
-				<div class="col-md-6"><a href=""><img src="images/qc-2.png" class="img-fluid w-100" alt=""></a></div>
-			</div>
-		</div>
+		<div class="slide-qc">
+			<div class="item"><a href=""><img src="images/qc-1.png" class="img-fluid w-100" alt=""></a></div>
+			<div class="item"><a href=""><img src="images/qc-2.png" class="img-fluid w-100" alt=""></a></div>
+			<div class="item"><a href=""><img src="images/qc-1.png" class="img-fluid w-100" alt=""></a></div>
+			<div class="item"><a href=""><img src="images/qc-2.png" class="img-fluid w-100" alt=""></a></div>
+		</div> 
 	</section>
 </main>
 <?php include 'footer.php';?>     

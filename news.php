@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'header-2.php';?>
 <main>
 	<section class="bread-contact" style="background: url('images/bread-ct.png');">
 		<div class="content">
@@ -17,14 +17,14 @@
 					<div class="col-md-8">
 						<div class="new-big">
 							<div class="avarta">
-								<a href=""><img src="images/new-big.png" class="img-fluid w-100" alt=""></a>
+								<a href="new-detail.php"><img src="images/new-big.png" class="img-fluid w-100" alt=""></a>
 								<div class="date-new">
 									<span>25</span>
 									<label>AUG</label>
 								</div>
 							</div>
 							<div class="info-news">
-								<h1><a href="">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorpe</a></h1>
+								<h1><a href="new-detail.php">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorpe</a></h1>
 								<ul class="list-inline">
 									<li class="list-inline-item"><img src="images/n-1.png" class="img-fluid" alt="">Dự án</li>
 									<li class="list-inline-item"><img src="images/n-2.png" class="img-fluid" alt="">0 Comment</li>
@@ -38,14 +38,14 @@
 					<div class="col-md-4">
 						<div class="new-small">
 							<div class="avarta">
-								<a href=""><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
+								<a href="new-detail.php"><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
 								<div class="date-new">
 									<span>25</span>
 									<label>AUG</label>
 								</div>
 							</div>
 							<div class="info-news">
-								<h3><a href="">Investigate your Competition</a></h3>
+								<h3><a href="new-detail.php">Investigate your Competition</a></h3>
 								<ul class="list-inline">
 									<li class="list-inline-item"><img src="images/n-1.png" class="img-fluid" alt="">Dự án</li>
 									<li class="list-inline-item"><img src="images/n-2.png" class="img-fluid" alt="">0 Comment</li>
@@ -59,14 +59,14 @@
 					<div class="col-md-4">
 						<div class="new-small">
 							<div class="avarta">
-								<a href=""><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
+								<a href="new-detail.php"><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
 								<div class="date-new">
 									<span>25</span>
 									<label>AUG</label>
 								</div>
 							</div>
 							<div class="info-news">
-								<h3><a href="">Investigate your Competition</a></h3>
+								<h3><a href="new-detail.php">Investigate your Competition</a></h3>
 								<ul class="list-inline">
 									<li class="list-inline-item"><img src="images/n-1.png" class="img-fluid" alt="">Dự án</li>
 									<li class="list-inline-item"><img src="images/n-2.png" class="img-fluid" alt="">0 Comment</li>
@@ -80,14 +80,14 @@
 					<div class="col-md-4">
 						<div class="new-small">
 							<div class="avarta">
-								<a href=""><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
+								<a href="new-detail.php"><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
 								<div class="date-new">
 									<span>25</span>
 									<label>AUG</label>
 								</div>
 							</div>
 							<div class="info-news">
-								<h3><a href="">Investigate your Competition</a></h3>
+								<h3><a href="new-detail.php">Investigate your Competition</a></h3>
 								<ul class="list-inline">
 									<li class="list-inline-item"><img src="images/n-1.png" class="img-fluid" alt="">Dự án</li>
 									<li class="list-inline-item"><img src="images/n-2.png" class="img-fluid" alt="">0 Comment</li>
@@ -101,14 +101,14 @@
 					<div class="col-md-4">
 						<div class="new-small">
 							<div class="avarta">
-								<a href=""><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
+								<a href="new-detail.php"><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
 								<div class="date-new">
 									<span>25</span>
 									<label>AUG</label>
 								</div>
 							</div>
 							<div class="info-news">
-								<h3><a href="">Investigate your Competition</a></h3>
+								<h3><a href="new-detail.php">Investigate your Competition</a></h3>
 								<ul class="list-inline">
 									<li class="list-inline-item"><img src="images/n-1.png" class="img-fluid" alt="">Dự án</li>
 									<li class="list-inline-item"><img src="images/n-2.png" class="img-fluid" alt="">0 Comment</li>
@@ -122,14 +122,14 @@
 					<div class="col-md-4">
 						<div class="new-small">
 							<div class="avarta">
-								<a href=""><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
+								<a href="new-detail.php"><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
 								<div class="date-new">
 									<span>25</span>
 									<label>AUG</label>
 								</div>
 							</div>
 							<div class="info-news">
-								<h3><a href="">Investigate your Competition</a></h3>
+								<h3><a href="new-detail.php">Investigate your Competition</a></h3>
 								<ul class="list-inline">
 									<li class="list-inline-item"><img src="images/n-1.png" class="img-fluid" alt="">Dự án</li>
 									<li class="list-inline-item"><img src="images/n-2.png" class="img-fluid" alt="">0 Comment</li>
@@ -143,14 +143,14 @@
 					<div class="col-md-4">
 						<div class="new-small">
 							<div class="avarta">
-								<a href=""><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
+								<a href="new-detail.php"><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
 								<div class="date-new">
 									<span>25</span>
 									<label>AUG</label>
 								</div>
 							</div>
 							<div class="info-news">
-								<h3><a href="">Investigate your Competition</a></h3>
+								<h3><a href="new-detail.php">Investigate your Competition</a></h3>
 								<ul class="list-inline">
 									<li class="list-inline-item"><img src="images/n-1.png" class="img-fluid" alt="">Dự án</li>
 									<li class="list-inline-item"><img src="images/n-2.png" class="img-fluid" alt="">0 Comment</li>
@@ -164,14 +164,14 @@
 					<div class="col-md-4">
 						<div class="new-small">
 							<div class="avarta">
-								<a href=""><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
+								<a href="new-detail.php"><img src="images/new-small.png" class="img-fluid w-100" alt=""></a>
 								<div class="date-new">
 									<span>25</span>
 									<label>AUG</label>
 								</div>
 							</div>
 							<div class="info-news">
-								<h3><a href="">Investigate your Competition</a></h3>
+								<h3><a href="new-detail.php">Investigate your Competition</a></h3>
 								<ul class="list-inline">
 									<li class="list-inline-item"><img src="images/n-1.png" class="img-fluid" alt="">Dự án</li>
 									<li class="list-inline-item"><img src="images/n-2.png" class="img-fluid" alt="">0 Comment</li>

@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'header-2.php';?>
 <main>
 	<section class="bread-contact" style="background: url('images/bread-ct.png');">
 		<div class="content">
@@ -8,6 +8,14 @@
 					<p>Time is the most precious thing you have when bootstrapping. You can't take time to ponder on design.</p>
 				</div>
 			</div>
+		</div>
+	</section>
+	<section id="bread">
+		<div class="container">
+			<ul class="list-inline">
+				<li class="list-inline-item"><a href="index.php">Trang chủ</a></li>
+				<li class="list-inline-item"><a href="javascript:void(0)">Liên hệ</a></li>
+			</ul>
 		</div>
 	</section>
 	<section id="contact">

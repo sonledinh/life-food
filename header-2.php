@@ -19,9 +19,9 @@
 </head>
 <body>  
     <header>
-        <div class="header-menu header-abs">
+        <div class="header-menu header-rel">
             <div class="container">
-                <div class="content-menu menu-white ">
+                <div class="content-menu">
                     <div class="logo"><a href="index.php"><img src="images/logo.png" class="img-fluid" alt=""></a></div>
                     <ul>
                         <li><a href="index.php" class="active">Trang chủ</a></li>
@@ -34,7 +34,7 @@
                             </ul>
                         </li>
                         <li><a href="news.php">Tin tức</a></li>
-                        <li><a href="contact.php">Liên hệ</a></li>
+                        <li><a href="contact.php">Liên hệ</a></li> 
                     </ul>
                     <div class="hotline text-right">
                         <label>Hotline</label> <br>
