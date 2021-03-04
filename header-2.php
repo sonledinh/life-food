@@ -27,11 +27,11 @@
                         <li><a href="index.php" class="active">Trang chủ</a></li>
                         <li><a href="about.php">Giới thiệu</a></li>
                         <li>
-                            <a href="product.php">Sản phẩm</a>
-                            <ul>
+                            <a href="product-2.php">Sản phẩm</a>
+                            <!-- <ul>
                                 <li><a href="support.php">Hướng dẫn nấu ăn</a></li>
                                 <li><a href="product-2.php">Product 2</a></li>
-                            </ul>
+                            </ul> -->
                         </li>
                         <li><a href="news.php">Tin tức</a></li>
                         <li><a href="contact.php">Liên hệ</a></li> 

@@ -30,7 +30,7 @@
 				<div class="row">
 					<div class="col-md-4 col-sm-4 col-6">
 						<div class="item-pr-4 text-center">
-							<div class="avarta"><a href="product-detail.php"><img src="images/p-4-1.png" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href="support.php"><img src="images/p-4-1.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h3><a href="">Lorem ipsum dorem</a></h3>
 							</div>
@@ -38,7 +38,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-6">
 						<div class="item-pr-4 text-center">
-							<div class="avarta"><a href="product-detail.php"><img src="images/p-4-2.png" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href="support.php"><img src="images/p-4-2.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h3><a href="">Lorem ipsum dorem</a></h3>
 							</div>
@@ -46,7 +46,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-6">
 						<div class="item-pr-4 text-center">
-							<div class="avarta"><a href="product-detail.php"><img src="images/p-4-1.png" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href="support.php"><img src="images/p-4-1.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h3><a href="">Lorem ipsum dorem</a></h3>
 							</div>
@@ -54,7 +54,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-6">
 						<div class="item-pr-4 text-center">
-							<div class="avarta"><a href="product-detail.php"><img src="images/p-4-2.png" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href="support.php"><img src="images/p-4-2.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h3><a href="">Lorem ipsum dorem</a></h3>
 							</div>
@@ -62,7 +62,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-6">
 						<div class="item-pr-4 text-center">
-							<div class="avarta"><a href="product-detail.php"><img src="images/p-4-1.png" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href="support.php"><img src="images/p-4-1.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h3><a href="">Lorem ipsum dorem</a></h3>
 							</div>
@@ -70,7 +70,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-6">
 						<div class="item-pr-4 text-center">
-							<div class="avarta"><a href="product-detail.php"><img src="images/p-4-2.png" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href="support.php"><img src="images/p-4-2.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h3><a href="">Lorem ipsum dorem</a></h3>
 							</div>
@@ -78,7 +78,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-6">
 						<div class="item-pr-4 text-center">
-							<div class="avarta"><a href="product-detail.php"><img src="images/p-4-1.png" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href="support.php"><img src="images/p-4-1.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h3><a href="">Lorem ipsum dorem</a></h3>
 							</div>
@@ -86,7 +86,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-6">
 						<div class="item-pr-4 text-center">
-							<div class="avarta"><a href="product-detail.php"><img src="images/p-4-2.png" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href="support.php"><img src="images/p-4-2.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h3><a href="">Lorem ipsum dorem</a></h3>
 							</div>
@@ -94,7 +94,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-6">
 						<div class="item-pr-4 text-center">
-							<div class="avarta"><a href="product-detail.php"><img src="images/p-4-1.png" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href="support.php"><img src="images/p-4-1.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h3><a href="">Lorem ipsum dorem</a></h3>
 							</div>
@@ -102,7 +102,7 @@
 					</div>
 					<div class="col-md-4 col-sm-4 col-6">
 						<div class="item-pr-4 text-center">
-							<div class="avarta"><a href="product-detail.php"><img src="images/p-4-2.png" class="img-fluid" alt=""></a></div>
+							<div class="avarta"><a href="support.php"><img src="images/p-4-2.png" class="img-fluid" alt=""></a></div>
 							<div class="info">
 								<h3><a href="">Lorem ipsum dorem</a></h3>
 							</div>

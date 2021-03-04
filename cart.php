@@ -31,7 +31,7 @@
 												<div class="number-spinner">
 			                                      <span class="ns-btn">
 			                                              <a data-dir="up"><span class="icon-plus">+</span></a>
-			                                      </span>
+			                                      </span> 
 			                                      <input type="text" class="pl-ns-value" value="10" maxlength="5" readonly="">
 			                                      <span class="ns-btn">
 			                                              <a data-dir="dwn"><span class="icon-minus">-</span></a>
